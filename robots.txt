@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trabalhodehomem.com.br/sitemap.xml
